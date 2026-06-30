@@ -66,11 +66,15 @@ Here are the steps to locate and resolve the bug:
 
 ## 6. Where Screenshots Should Be Taken
 
-For your college assignment submission, please run the buggy version and take screenshots of the following console states:
+1. **Screenshot 1 (Filled Backpack)**:
+2. <img width="419" height="306" alt="image" src="https://github.com/user-attachments/assets/be52c211-66f1-46c3-999e-4166ba4969b8" />
 
-1. **Screenshot 1 (Populated Backpack)**: Take a screenshot after adding a few items (e.g., Laptop, Charger) and viewing them using Option 3.
-2. **Screenshot 2 (Bug Occurrence)**: Take a screenshot showing Option 2 selection, entering `Charger`, and the output showing `Item removed successfully.`.
-3. **Screenshot 3 (Stale View)**: Take a screenshot showing Option 3 selection immediately after the removal attempt, displaying the backpack contents with the `Charger` still in the list.
+3. **Screenshot 2 (Bug Occurrence)**: 
+<img width="412" height="246" alt="image" src="https://github.com/user-attachments/assets/612a478f-749c-4a59-a931-35d19719ae39" />
+
+4. **Screenshot 3 (Bug View)**:
+5. <img width="422" height="299" alt="image" src="https://github.com/user-attachments/assets/b8b0c84a-64d7-49a2-9821-b0e23ce3f5cf" />
+
 
 ---
 
