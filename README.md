@@ -33,16 +33,16 @@ This project was developed as part of an Object-Oriented Programming (OOP) funda
 ##  4. Project Structure
 
 ```text
-Smart-Backpack-Tracker/
+Backpack-Tracker/
 │
-├── Simple/
+├── backpack_tracker/
 │   ├── main.py
 │   ├── backpack.py
 │   ├── item.py
 │   ├── person.py
 │   └── student.py
 │
-├── Buggy/
+├── backpack_tracker_buggy/
 │   ├── main.py
 │   ├── backpack.py
 │   ├── item.py
@@ -66,7 +66,7 @@ git clone https://github.com/yourusername/Smart-Backpack-Tracker.git
 Navigate to the project folder:
 
 ```bash
-cd Smart-Backpack-Tracker/Simple
+cd backpack-tracker/
 ```
 
 Run the application:
